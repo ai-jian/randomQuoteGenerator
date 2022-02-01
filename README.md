@@ -1,4 +1,4 @@
-# randomQuoteGenerator
+# Random Quote Generator
 
 
 <!-- ABOUT THE PROJECT -->
@@ -6,7 +6,7 @@
 
 
 ![Screen Shot](https://github.com/meowwwowo/randomQuoteGenerator/blob/main/quoteScreenShot.png)
-Random Quote Generator
+This is a random quote generator
 
 ## Major functions & instruction
 
