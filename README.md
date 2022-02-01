@@ -5,21 +5,16 @@
 ## About The Project
 
 
-![Drawing board Screen Shot](https://github.com/meowwwowo/Drawing-Board/blob/main/Screen%20Shot%202022-01-27%20at%2012.44.11%20AM.png)
-Let's draw with one stroke. Enjoy the randomness and have fun! :)
-
+![Screen Shot](https://github.com/meowwwowo/randomQuoteGenerator/blob/main/quoteScreenShot.png)
+Random Quote Generator
 
 ## Major functions & instruction
 
-- Click the button on the left top to start drawing.
-- Change the bush sizes of rectangle and ellipse by slowly or fast moving your mouse.
-- Hold right click to change brush color to black and white.
-- Press RETURN to change a background color and get a new canvas.
-- Press "S" to save your drawing.
+- Click 'Get New Quote' button to get a random quote
 
 ## Deploy
 
-[Click to play](https://meowwwowo.github.io/Drawing-Board/)
+[Click to play](https://meowwwowo.github.io/randomQuoteGenerator/)
 
 
 ## Built With 
