@@ -21,7 +21,7 @@ This is a random quote generator
 
 * HTML/CSS
 * JavaScript
-* Quote API
+* [Quote API](https://api.quotable.io/random)
 * ❤️
 
 
